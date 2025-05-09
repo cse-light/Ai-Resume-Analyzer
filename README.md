@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # 📄 AI Resume Analyzer
 
@@ -48,3 +49,6 @@ An advanced Python + Streamlit app that analyzes resumes against job description
 - Streamlit Cloud
 - Render
 - Vercel
+=======
+# Ai-Resume-Analyzer
+>>>>>>> 7fdbe92bf7517bf7f6f1be356968f05165063a7c
